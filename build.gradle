@@ -8,7 +8,7 @@ group = 'com.green'
 version = '0.0.1'
 
 //jar{
-//	enable=false
+//	enabled=false
 //}
 
 //bootJar{
