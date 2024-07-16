@@ -5,7 +5,15 @@ plugins {
 }
 
 group = 'com.green'
-version = '0.0.1-SNAPSHOT'
+version = '0.0.1'
+
+//jar{
+//	enable=false
+//}
+
+//bootJar{
+//	 archiveFileName= "greenApp.jar"
+//}
 
 java {
 	toolchain {
